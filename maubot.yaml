@@ -1,0 +1,11 @@
+maubot: 0.1.0
+id: com.livetennisapi.livetennis
+version: 0.1.0
+license: MIT
+modules:
+- livetennis
+main_class: LiveTennisBot
+database: false
+
+extra_files:
+- base-config.yaml

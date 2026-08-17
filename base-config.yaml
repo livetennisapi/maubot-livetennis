@@ -1,0 +1,9 @@
+# API key for the Live Tennis API.
+# Get a free key (no card) at https://livetennisapi.com/subscribe/free
+api_key: ""
+
+# API base URL. You should not need to change this.
+base_url: https://api.livetennisapi.com/api/public/v1
+
+# Maximum number of rows shown per command (matches, fixtures, player results).
+max_results: 10
